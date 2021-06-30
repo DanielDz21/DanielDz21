@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel da Silva</h1>
-- 🔭 I’m currently working at [WGR TECNOLOGIA](https://www.queroestaronline.com.br/)
+- 🔭 I’m currently working at <a target="_BLANK" href="https://www.queroestaronline.com.br">WGR TECNOLOGIA</a>
 
 - 📫 How to reach me **Daniel.da.silva.tj2011@gmail.com**
 
