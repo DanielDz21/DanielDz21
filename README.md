@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Daniel da Silva</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danieldz21" alt="danieldz21" /></a> </p>
-
 - 🔭 I’m currently working at [WGR TECNOLOGIA](https://www.queroestaronline.com.br/)
 
 - 📫 How to reach me **Daniel.da.silva.tj2011@gmail.com**
