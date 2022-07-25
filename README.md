@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel da Silva</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=danieldz21&label=Profile%20views&color=0e75b6&style=flat" alt="danieldz21" /> </p>
+
 
 - 🔭 I’m currently working at <a target="_BLANK" href="https://facil123.com.br/">ASSEINFO</a>
 
