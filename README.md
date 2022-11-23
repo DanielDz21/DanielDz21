@@ -41,4 +41,4 @@
   
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DanielDz21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--  <img src="https://tryhackme-badges.s3.amazonaws.com/DanielDz616.png" alt="TryHackMe"> -->
+<img src="https://tryhackme-badges.s3.amazonaws.com/DanielDz616.png" alt="TryHackMe">
