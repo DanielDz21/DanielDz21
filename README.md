@@ -39,6 +39,6 @@
 
 <p>&nbsp;<img scr="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieldz21&count_private=true&show_icons=true&theme=radical&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats) /></p>
   
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DanielDz21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DanielDz21&layout=compact&range=all_time)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/DanielDz616.png" alt="TryHackMe">
